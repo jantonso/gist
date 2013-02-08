@@ -1,0 +1,25 @@
+TimeSheet:
+Josh Antonson
+Section G
+Jantonso
+
+First Week:
+(Apr 9 - Apr 15)
+5 Hours
+-I spent this first week struggling to install beautifulsoup, as well as trying to install qt, which was recommended as an alternative to tinter. I could not get qt installed properly, but I quickly figured out that using beautifulsoup to scrape the web for text is fairly easy and after the first week I had a list of all the available players, as well as all of their projected stats
+
+Second Week:
+(Apr 16 - Apr 22)
+10 Hours
+-I spent the second week trying to get the key features of all aspects of the draft working, which included the list of available players, displaying the current team's roster, the updating pick order, the draft clock, and the list of picked players. I got all of these working in a decent amount of time, but I did not worry at all about graphic or the layout, so my very first implementation of my project was very basic, at this point it would just pick the first available player from the list of players, instead of determining which player was the best to pick on its own.
+
+Third Week:
+(Apr 23 - Apr 29)
+15 Hours
+-I spent this final week working on the settings page, as well as touching up the drafting interface. I made the drafting interface actually look acceptable, as well as fixed a lot of the bugs that came with the updating draft order, the players list, and the current teams rosters. I also realized that I had not included pitchers in any of my previous design, as the website where I was getting the projections from had pitchers on a separate page, so I worked to get it working for both pitchers and hitters. I spent a very long time getting everything on the settings page laid out and displayed the way I wanted to.
+
+Final Weekend:
+(Apr 29 - May 1)
+10 Hours
+-I had everything working fairly well, but I spent this time working on getting the drafting algorithm to work in all cases, as I did not want my program to crash due to the wide range of possible settings. I also spent a lot of this time fixing the style of my code, as I was not too concerned with magic numbers, length of functions, or the use of helper functions so I spent a lot of time fixing these aspects. If I had more time I would of liked to implanted a results page, where after the draft is complete it would display the projected standings for the season and ideally show how well the auto-drafting program had worked.
+
