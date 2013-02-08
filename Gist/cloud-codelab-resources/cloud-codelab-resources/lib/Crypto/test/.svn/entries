@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="670"
+   name=""
+   committed-date="2008-05-29T11:20:19.381743Z"
+   url="https://opensocial-resources.googlecode.com/svn/samples/cloud/appengine+s3/lib/Crypto/test"
+   last-author="apijason@google.com"
+   kind="dir"
+   repos="https://opensocial-resources.googlecode.com/svn"
+   revision="670"/>
+<entry
+   committed-rev="670"
+   name="testdata.py"
+   text-time="2004-08-01T18:53:31.000000Z"
+   committed-date="2008-05-29T11:20:19.381743Z"
+   checksum="48410571726c7941c673e6d0587611e7"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="670"
+   name="test_hashes.py"
+   text-time="2004-08-13T22:23:12.000000Z"
+   committed-date="2008-05-29T11:20:19.381743Z"
+   checksum="9dc84d3fbb5d16a064c372ff6e8a5dfb"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="670"
+   name="test_randpool.py"
+   text-time="2003-02-28T15:24:01.000000Z"
+   committed-date="2008-05-29T11:20:19.381743Z"
+   checksum="f87ce4d0d013fd48b04e2b89784dd9e0"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="670"
+   name="template"
+   text-time="2002-05-17T13:31:48.000000Z"
+   committed-date="2008-05-29T11:20:19.381743Z"
+   checksum="6363e21eaabb2284d1a59d7147f6db6e"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="670"
+   name="test_chaffing.py"
+   text-time="2003-02-28T15:23:59.000000Z"
+   committed-date="2008-05-29T11:20:19.381743Z"
+   checksum="a96bfbefb332c1ed8cdda13f24130bb6"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="670"
+   name="test_publickey.py"
+   text-time="2003-04-04T19:38:28.000000Z"
+   committed-date="2008-05-29T11:20:19.381743Z"
+   checksum="58f57d8e783faf0476360a46886bb233"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="670"
+   name="test_number.py"
+   text-time="2003-04-04T18:21:35.000000Z"
+   committed-date="2008-05-29T11:20:19.381743Z"
+   checksum="67e0e4f33e16fe3fd0854b4b9be05197"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="670"
+   name="test_rfc1751.py"
+   text-time="2003-02-28T15:24:01.000000Z"
+   committed-date="2008-05-29T11:20:19.381743Z"
+   checksum="fe1014b78ef688c9e9becd349102db78"
+   last-author="apijason@google.com"
+   kind="file"/>
+</wc-entries>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="670"
+   name=""
+   committed-date="2008-05-29T11:20:19.381743Z"
+   url="https://opensocial-resources.googlecode.com/svn/samples/cloud/appengine+s3/lib/Crypto/Cipher"
+   last-author="apijason@google.com"
+   kind="dir"
+   repos="https://opensocial-resources.googlecode.com/svn"
+   revision="670"/>
+<entry
+   committed-rev="670"
+   name="__init__.py"
+   text-time="2003-02-28T15:28:35.000000Z"
+   committed-date="2008-05-29T11:20:19.381743Z"
+   checksum="c210e46948152f38107271fad6a088a6"
+   last-author="apijason@google.com"
+   kind="file"/>
+</wc-entries>
