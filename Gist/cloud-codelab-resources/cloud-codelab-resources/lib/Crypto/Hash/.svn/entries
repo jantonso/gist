@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="670"
+   name=""
+   committed-date="2008-05-29T11:20:19.381743Z"
+   url="https://opensocial-resources.googlecode.com/svn/samples/cloud/appengine+s3/lib/Crypto/Hash"
+   last-author="apijason@google.com"
+   kind="dir"
+   repos="https://opensocial-resources.googlecode.com/svn"
+   revision="670"/>
+<entry
+   committed-rev="670"
+   name="HMAC.py"
+   text-time="2002-07-25T17:19:02.000000Z"
+   committed-date="2008-05-29T11:20:19.381743Z"
+   checksum="bb4d0e12154cdb9aeef5dde886ce9b0b"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="670"
+   name="SHA.py"
+   text-time="2002-07-11T14:31:19.000000Z"
+   committed-date="2008-05-29T11:20:19.381743Z"
+   checksum="b037afb9f239fd48e31daa0ee31f8ed1"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="670"
+   name="__init__.py"
+   text-time="2003-12-19T14:24:25.000000Z"
+   committed-date="2008-05-29T11:20:19.381743Z"
+   checksum="4cf44710ae1dc0cef3560448dd6272df"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="670"
+   name="MD5.py"
+   text-time="2002-07-11T14:31:19.000000Z"
+   committed-date="2008-05-29T11:20:19.381743Z"
+   checksum="b6dec994b45d90708bfb6b9a4a4070bb"
+   last-author="apijason@google.com"
+   kind="file"/>
+</wc-entries>
