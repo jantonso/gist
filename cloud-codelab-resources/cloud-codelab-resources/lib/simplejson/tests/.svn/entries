@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="668"
+   name=""
+   committed-date="2008-05-28T14:42:12.252954Z"
+   url="https://opensocial-resources.googlecode.com/svn/samples/cloud/appengine+s3/simplejson/tests"
+   last-author="apijason@google.com"
+   kind="dir"
+   repos="https://opensocial-resources.googlecode.com/svn"
+   revision="668"/>
+<entry
+   committed-rev="668"
+   name="test_pass3.py"
+   text-time="2008-05-03T17:42:37.000000Z"
+   committed-date="2008-05-28T14:42:12.252954Z"
+   checksum="0e5445c599eee0f84acc4b3a6f796371"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="668"
+   name="__init__.py"
+   text-time="2008-05-03T17:51:15.000000Z"
+   committed-date="2008-05-28T14:42:12.252954Z"
+   checksum="2789e5927138ab804a1089aade499b7c"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="668"
+   name="test_dump.py"
+   text-time="2008-05-03T17:32:08.000000Z"
+   committed-date="2008-05-28T14:42:12.252954Z"
+   checksum="ff5efa5ec26dd5ea995aa628c69c21ca"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="668"
+   name="test_float.py"
+   text-time="2008-05-03T17:36:40.000000Z"
+   committed-date="2008-05-28T14:42:12.252954Z"
+   checksum="db21ef418ad95314427cf89be0cac3e5"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="668"
+   name="test_recursion.py"
+   text-time="2008-05-03T17:45:56.000000Z"
+   committed-date="2008-05-28T14:42:12.252954Z"
+   checksum="e657d260d43236d3267b24d925b4b8a4"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="668"
+   name="test_fail.py"
+   text-time="2008-05-03T17:35:50.000000Z"
+   committed-date="2008-05-28T14:42:12.252954Z"
+   checksum="29ec5333a0bdebfe88aa5621a2dbd0b5"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="668"
+   name="test_scanstring.py"
+   text-time="2008-05-04T01:14:54.000000Z"
+   committed-date="2008-05-28T14:42:12.252954Z"
+   checksum="8522bef6908241500d5bdb74817738a3"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="668"
+   name="test_indent.py"
+   text-time="2008-05-03T17:38:02.000000Z"
+   committed-date="2008-05-28T14:42:12.252954Z"
+   checksum="757ee716bd6a882bd9c8fed96d554899"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="668"
+   name="test_decode.py"
+   text-time="2008-05-03T17:30:58.000000Z"
+   committed-date="2008-05-28T14:42:12.252954Z"
+   checksum="f266c091888258e0227cb0cbdcc074ff"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="668"
+   name="test_separators.py"
+   text-time="2008-05-03T17:47:03.000000Z"
+   committed-date="2008-05-28T14:42:12.252954Z"
+   checksum="7e8ce8bf7fa483e73c7517443e23c04c"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="668"
+   name="test_default.py"
+   text-time="2008-05-03T17:31:09.000000Z"
+   committed-date="2008-05-28T14:42:12.252954Z"
+   checksum="ddf73ebf90b3b1c40c7fb1575afd04b7"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="668"
+   name="test_encode_basestring_ascii.py"
+   text-time="2008-05-04T01:14:37.000000Z"
+   committed-date="2008-05-28T14:42:12.252954Z"
+   checksum="1193db80abe51e45b5492439bd5053a5"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="668"
+   name="test_unicode.py"
+   text-time="2008-05-03T19:27:19.000000Z"
+   committed-date="2008-05-28T14:42:12.252954Z"
+   checksum="92bc389606365917849f6d05ff1a5210"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="668"
+   name="test_pass1.py"
+   text-time="2008-05-03T17:42:34.000000Z"
+   committed-date="2008-05-28T14:42:12.252954Z"
+   checksum="2ddee7d059c5b6e6fa9b2a9450bd5483"
+   last-author="apijason@google.com"
+   kind="file"/>
+<entry
+   committed-rev="668"
+   name="test_pass2.py"
+   text-time="2008-05-03T17:41:48.000000Z"
+   committed-date="2008-05-28T14:42:12.252954Z"
+   checksum="4bb527a10e2345bceaec33c78d370668"
+   last-author="apijason@google.com"
+   kind="file"/>
+</wc-entries>

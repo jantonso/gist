@@ -1,0 +1,16 @@
+body{
+	background-color:#212121;
+}
+
+h1{
+	color:#fff;
+}
+#content{
+	float:right;
+	display:inline-block;
+}
+.result{
+	background-image:url('./images/Text_Box.png');
+	color:#212121;
+}
+
